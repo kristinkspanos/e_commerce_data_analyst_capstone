@@ -6,7 +6,7 @@ Capstone project for Codecademy Data Analyst Skill Path.
 * Jupyter Notebook
 
 ## data
-* e-commerce data (downloaded from Codecademy)
+e-commerce data (downloaded from Codecademy)
 
 Headers | Description |
 --- | --- |
